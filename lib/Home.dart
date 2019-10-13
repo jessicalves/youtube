@@ -26,7 +26,7 @@ class _HomeState extends State<Home> {
               print("acao: videocam");
             },
           ),
-          IconButton(
+          IconButton( //icone
             icon: Icon(Icons.search),
             onPressed: (){
               print("acao: pesquisa");
